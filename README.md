@@ -8,7 +8,7 @@ How to Run the application locally
 
 1. Clone Repo
 
-      $ git clone ‘https://github.com/Suha1998/hSenid_Assessment---React-Web-Application’
+      $ git clone https://github.com/Suha1998/hSenid_Assessment---React-Web-Application
 
 2. Install node modules
 
